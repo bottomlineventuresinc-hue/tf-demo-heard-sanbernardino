@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Panel upgrades and residential wiring across San Bernardino and the Inland Empire. Charles opens the panel first and puts the price in writing.';
+            'Panel upgrades and residential wiring in San Bernardino. Charles opens the panel first and puts the price in writing.';
         }
       }
     },
